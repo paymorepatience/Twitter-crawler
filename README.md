@@ -7,7 +7,7 @@ pymongo version:3.11.2
 emoji version:0.6.0  
 
 ## Twitter streaming API and REST API crawler:
-By open file  **<u>`streamCrawler.py`</u>**
+By open file  **<u>`streamCrawler.py`</u>**  
 By open file  **<u>`countstream.py`</u>** make statistics .
 The streaming data will store as `./original_data/data.json`  
 The rest data will store as `./original_data/rest.json`  
